@@ -1,0 +1,10 @@
+.images {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.images img {
+    height: 200px;
+    margin: 20px;
+}
